@@ -1,6 +1,5 @@
 package no.hvl.data102;
 
-import java.util.Objects;
 
 public class Film {
 	
